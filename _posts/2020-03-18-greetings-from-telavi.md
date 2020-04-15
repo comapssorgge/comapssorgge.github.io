@@ -9,8 +9,6 @@ image: /uploads/p2.png
 large_header: false
 ---
 
-# &nbsp;
-
 The training course took place in Telavi, from the 10 to the 16 of March. Unluckily, due to the fact that I was attending another training, I had the possibility to participate from the third day. I met the other participants during a typical cultural dinner. There were 26 people in total, coming from Georgia, Armenia, Azerbaijan, Poland, England and Slovakia.
 
 ![](/uploads/p2.png){: width="731" height="239"}
