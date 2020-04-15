@@ -1,2 +1,6 @@
+---
+layout: null
+sitemap: false
+---
 User-agent: *
-Sitemap: https://orchid-heron.cloudvent.net/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml

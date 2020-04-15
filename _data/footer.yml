@@ -1,0 +1,26 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: About
+      link: /about/
+    - name: Projects
+      link: /projects/
+    - name: Contact
+      link: /contact/
+    - name: Updates
+      link: /updates/
+- title: Social
+  links:
+    - name: Facebook
+      link: 'https://www.facebook.com/CompassYouthGeorgia'
+      social_icon: Facebook
+      new_window: true
+    - name: Instagram
+      link: 'https://www.instagram.com/performator_ka2/'
+      social_icon: Instagram
+      new_window: true
+    - name: Youtube
+      link: 'https://www.youtube.com/channel/UCEF47_mWO-fEelkIPMJvvkg'
+      social_icon: YouTube
+      new_window: true
